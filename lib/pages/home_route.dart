@@ -1,6 +1,8 @@
+import 'package:flutter/material.dart';
+
 import 'package:Rally/pages/subPages/overView.dart';
 import 'package:Rally/utils/constants.dart';
-import 'package:flutter/material.dart';
+
 
 class Home extends StatefulWidget {
   @override
