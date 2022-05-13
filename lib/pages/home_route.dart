@@ -1,3 +1,7 @@
+import 'package:Rally/pages/settings.dart';
+import 'package:Rally/pages/subPages/accounts.dart';
+import 'package:Rally/pages/subPages/bills.dart';
+import 'package:Rally/pages/subPages/budgets.dart';
 import 'package:flutter/material.dart';
 
 import 'package:Rally/pages/subPages/overView.dart';

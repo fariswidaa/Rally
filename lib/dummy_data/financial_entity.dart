@@ -8,6 +8,8 @@ class FinancialEntity {
   final double primaryAmount;
 }
 
+
+
 /// Utils for [FinancialEntity].
 class FinancialEntities {
   /// Calculates the sum of the primary amounts of a list of entites.
@@ -16,6 +18,7 @@ class FinancialEntities {
   }
 
 }
+
 
 /// A data model for an account.
 ///
